@@ -1,8 +1,8 @@
 {
   "images" : [
     {
+      "filename" : "32242 - flag iran irani persia ø§ûø±ø§ù.png",
       "idiom" : "universal",
-      "filename" : "32242 - flag iran irani persia ø§ûø±ø§ù.png",
       "scale" : "1x"
     },
     {
@@ -15,7 +15,7 @@
     }
   ],
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   }
 }
